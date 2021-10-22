@@ -165,7 +165,7 @@ nav {
 }
 
 .main-container-right {
-    background: url('./images/R.jpg') no-repeat;
+    background: url('../images/R.jpg') no-repeat;
     background-size: cover;
     object-fit: cover;
     height: 500px;
